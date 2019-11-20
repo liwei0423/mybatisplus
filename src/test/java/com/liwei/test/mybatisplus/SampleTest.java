@@ -24,7 +24,7 @@ public class SampleTest {
     public void testSelect() {
         System.out.println(("----- selectAll method test ------"));
         User user = userMapper.selectById("2");
-        System.out.println(user.getName());
+        System.out.println(user.getAge());
     }
 
 }
