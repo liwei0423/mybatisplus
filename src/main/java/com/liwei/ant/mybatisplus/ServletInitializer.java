@@ -1,4 +1,4 @@
-package com.liwei.test.mybatisplus;
+package com.liwei.ant.mybatisplus;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

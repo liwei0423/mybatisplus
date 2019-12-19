@@ -1,4 +1,4 @@
-package com.baomidou.ant.common;
+package com.liwei.ant.mybatisplus.common;
 
 /**
  * @description:

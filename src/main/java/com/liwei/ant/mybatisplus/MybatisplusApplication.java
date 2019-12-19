@@ -1,4 +1,4 @@
-package com.liwei.test.mybatisplus;
+package com.liwei.ant.mybatisplus;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
